@@ -1,12 +1,12 @@
 # bitmap-transformer
 
-# blackWhite
+## blackWhite
   *convert image from color image to black and white image
-# bluifyBlue
+## bluifyBlue
   * take an color image and delete the blue color form it
-# bluifyGreen
+## bluifyGreen
   * take an color image and delete the green color form it
-# bluifyRed
+## bluifyRed
   * take an color image and delete the red color form it
-# mirror
+## mirror
   * take an color image and reflect it
