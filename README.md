@@ -1,5 +1,8 @@
 # bitmap-transformer
 
+Aya berjawi
+Osama Yousef
+
 ## blackWhite
   *convert image from color image to black and white image
 ## bluifyBlue
